@@ -100,7 +100,7 @@ class Price
     /**
      * Set endDate
      *
-     * @param \DateTime $endDate
+     * @param \DateTimeImmutable $endDate
      *
      * @return Price
      */
